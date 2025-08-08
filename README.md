@@ -29,4 +29,4 @@ Aqui no GitHub, você vai encontrar meus projetos acadêmicos e pessoais, explor
 ---
 
 💬 Vamos trocar ideias?  
-📫 Me encontre no [LinkedIn](https://www.linkedin.com/in/CarlosENunes93)  
+📫 Me encontre no [LinkedIn](https://www.linkedin.com/in/carlos-eduardo-nunes-613740160/)  
