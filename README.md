@@ -23,8 +23,7 @@ Aqui no GitHub, você vai encontrar meus projetos acadêmicos e pessoais, explor
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarlosENunes93&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosENunes93&layout=compact&theme=radical)
+![CarlosENunes93's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosENunes93&show_icons=true&theme=tokyonight)
 
 ---
 
