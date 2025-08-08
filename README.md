@@ -22,8 +22,8 @@ Aqui no GitHub, você vai encontrar meus projetos acadêmicos e pessoais, explor
 
 ---
 
-## 📊 GitHub Stats
-![CarlosENunes93's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosENunes93&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats!
+![Snake animation](https://github.com/CarlosENunes93/CarlosENunes93/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
