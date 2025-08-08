@@ -4,7 +4,6 @@
 
 Aqui no GitHub, você vai encontrar meus projetos acadêmicos e pessoais, explorando **front-end, back-end** e **integração de APIs**, sempre buscando unir **criatividade, lógica e propósito**.
 
----
 
 ## 🚀 Tecnologias & Ferramentas
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
@@ -13,19 +12,17 @@ Aqui no GitHub, você vai encontrar meus projetos acadêmicos e pessoais, explor
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge)
 
----
 
 ## 📌 Valores que me guiam
 - **Inclusão**: Tecnologia para todos.
 - **Sustentabilidade**: Soluções que respeitam o planeta.
 - **Aprendizado contínuo**: Sempre evoluindo.
-
----
+- 
 
 ## 📊 GitHub Stats!
-![Snake animation](https://raw.githubusercontent.com/CarlosENunes93/CarlosENunes93/output/github-contribution-grid-snake.svg)
+## 📊 Estatísticas do GitHub
+![CarlosENunes93's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosENunes93&show_icons=true&theme=transparent&hide_title=false&count_private=true)
 
----
 
 💬 Vamos trocar ideias?  
 📫 Me encontre no [LinkedIn](https://www.linkedin.com/in/carlos-eduardo-nunes-613740160/)  
