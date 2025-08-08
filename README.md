@@ -23,7 +23,7 @@ Aqui no GitHub, você vai encontrar meus projetos acadêmicos e pessoais, explor
 ---
 
 ## 📊 GitHub Stats!
-![Snake animation](https://github.com/CarlosENunes93/CarlosENunes93/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/CarlosENunes93/CarlosENunes93/output/github-contribution-grid-snake.svg)
 
 ---
 
