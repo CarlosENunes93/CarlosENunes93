@@ -20,7 +20,6 @@ Aqui no GitHub, você vai encontrar meus projetos acadêmicos e pessoais, explor
 - 
 
 ## 📊 GitHub Stats!
-## 📊 Estatísticas do GitHub
 ![CarlosENunes93's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosENunes93&show_icons=true&theme=transparent&hide_title=false&count_private=true)
 
 
